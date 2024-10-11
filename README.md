@@ -10,8 +10,8 @@ Ao iniciar a calculadora o úsuario pode escolher qual valor deseja descobrir, t
 Para criar a calculadora, utilizamos a linguagem em python durante as aulas de DS
 
 ## Membros:
-*Alana;
-*Ana Luiza;
-*Arthur Vinícios;
-*João Marcos;
-*Laís.
+* Alana;
+* Ana Luiza;
+* Arthur Vinícios;
+* João Marcos;
+* Laís.
